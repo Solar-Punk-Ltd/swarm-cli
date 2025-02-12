@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'SPDV-72-swarm-cli-update-to-bee-js-9'
   pull_request:
     branches:
       - '**'
