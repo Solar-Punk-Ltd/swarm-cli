@@ -91,7 +91,7 @@ export class FeedCommand extends RootCommand {
         topic,
         wallet.getAddressString(),
       )
-      const { reference } = await writer.upload(stamp, chunkReference as Reference)
+      const reference = await writer.upload(stamp, chunkReference as Reference)
 
       return { reference, manifest }
     } finally {
