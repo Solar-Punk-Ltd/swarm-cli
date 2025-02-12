@@ -1,4 +1,4 @@
-import { Reference } from '@ethersphere/bee-js'
+import { Reference } from '@upcoming/bee-js'
 import { promises, statSync } from 'fs'
 import { join } from 'path'
 import { CommandLog } from '../command/root-command/command-log'

@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import { Bee } from '@ethersphere/bee-js'
+import { Bee } from '@upcoming/bee-js'
 import { Numbers } from 'cafe-utility'
 
 export const getOrBuyStamp = async (): Promise<string> => {

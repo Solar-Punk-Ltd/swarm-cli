@@ -1,4 +1,4 @@
-import { Bee, BeeOptions } from '@ethersphere/bee-js'
+import { Bee, BeeOptions } from '@upcoming/bee-js'
 import { ExternalOption, Sourcemap, Utils } from 'furious-commander'
 import { printCurlCommand } from '../../curl'
 import { parseHeaders } from '../../utils'

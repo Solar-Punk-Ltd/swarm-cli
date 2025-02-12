@@ -1,4 +1,4 @@
-import { BeeError } from '@ethersphere/bee-js'
+import { BeeError } from '@upcoming/bee-js'
 import { createWriteStream } from 'fs'
 import { LeafCommand, Option } from 'furious-commander'
 import { PssCommand } from './pss-command'

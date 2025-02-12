@@ -1,4 +1,4 @@
-import { Bee, PostageBatch, Utils } from '@ethersphere/bee-js'
+import { Bee, PostageBatch, Utils } from '@upcoming/bee-js'
 import { Dates, Numbers } from 'cafe-utility'
 import { exit } from 'process'
 import { CommandLog } from '../../command/root-command/command-log'

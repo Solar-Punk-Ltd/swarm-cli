@@ -1,4 +1,4 @@
-import { Utils } from '@ethersphere/bee-js'
+import { Utils } from '@upcoming/bee-js'
 import { Dates, Numbers } from 'cafe-utility'
 import { BigNumber } from 'ethers'
 import { LeafCommand, Option } from 'furious-commander'

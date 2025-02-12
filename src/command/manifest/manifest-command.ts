@@ -1,4 +1,4 @@
-import type { Data } from '@ethersphere/bee-js'
+import type { Data } from '@upcoming/bee-js'
 import { loadAllNodes, MantarayFork, MantarayNode, Reference, StorageSaver } from 'mantaray-js'
 import { join } from 'path'
 import { getFieldOrNull, referenceToHex } from '../../utils'

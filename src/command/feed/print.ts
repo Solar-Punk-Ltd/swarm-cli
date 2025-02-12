@@ -1,4 +1,4 @@
-import { Utils } from '@ethersphere/bee-js'
+import { Utils } from '@upcoming/bee-js'
 import { makeChunk } from '@fairdatasociety/bmt-js'
 import { Binary } from 'cafe-utility'
 import Wallet from 'ethereumjs-wallet'

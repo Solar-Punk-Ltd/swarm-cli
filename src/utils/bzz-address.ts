@@ -1,4 +1,4 @@
-import { Bee } from '@ethersphere/bee-js'
+import { Bee } from '@upcoming/bee-js'
 import { MantarayFork, MantarayNode, MetadataMapping } from 'mantaray-js'
 import { CommandLineError } from './error'
 
